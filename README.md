@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrian Morente ribera, I am a student at the Autonomous University of Barcelona pursuing my Double Degree in 
+- 👋 Hi, I’m Adrian Morente Ribera, I am a student at the Autonomous University of Barcelona pursuing my Double Degree in 
 Computer Engineering & Telecommunication Systems.
 
 - 👀 I’m interested in Web Development & Software Development
